@@ -1,0 +1,5 @@
+<cliente>
+    <nome>João da Silva</nome>
+    <cpf>123.456.789-00</cpf>
+    <status>pendente</status>
+</cliente>
