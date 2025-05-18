@@ -1,5 +1,7 @@
 <cliente>
     <nome>Aninha2434</nome>
+    <cnpj>0001255</cnpj>
+        <valor>70.000,00</valor>
     <cpf>123.456.044-00</cpf>
     <status>aprovado</status>
 </cliente>
